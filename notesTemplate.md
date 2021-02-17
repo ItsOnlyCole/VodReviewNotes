@@ -7,7 +7,7 @@
 
 ## Notes
 ### First Half (A/D)
-##### Round 1
+#### Round 1
 - 
 
 ### End-of-Game
