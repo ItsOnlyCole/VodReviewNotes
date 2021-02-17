@@ -6,9 +6,9 @@
 ## Things to work on (TLDR;)
 
 ## Notes
-#### First Half (A/D)
-Round 1
+### First Half (A/D)
+##### Round 1
 - 
 
-End-of-Game
+### End-of-Game
 Final Score: 
