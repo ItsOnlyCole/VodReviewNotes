@@ -20,6 +20,22 @@
 - (On Icebox) Omen smoke mid indicates a mid push
 - Tend to fumble into each other if running from an ult (Sova's ult is what they ran from in the VOD)
 
+### Powerplay
+#### How to Counter on Attack
+- Sage plays off angles
+- PP will save weapons a lot if down bad
+- Doesn't often use ults
+
+#### How to Counter on Defense
+- Play Retake, Very bad at post plant
+- Tendency to rotate a lot
+- PP will save weapons a lot if down bad
+- Doesn't often use ults
+- PP tends to push the same site a lot (On Ascent At Least)
+- Sage will use wall to prevent retake
+- Never Double Fakes
+
+
 
 
 
